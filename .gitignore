@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ClimateMonitor/obj
+/.vs/ClimateMonitor
+/ClimateMonitor/bin/Debug/net6.0
+/ClimateMonitor.Test/obj
+/ClimateMonitor.Test/bin/Debug/net6.0
